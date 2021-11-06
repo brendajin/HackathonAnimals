@@ -67,7 +67,7 @@ This will tell you if you're pointing to a `git@...` URL (SSH) or `https://...` 
 
     git remote set-url origin git@github.com:brendajin/HackathonAnimals.git
     
-### If are not yet configured to use SSH with GitHub
+### If you are not yet configured to use SSH with GitHub
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
